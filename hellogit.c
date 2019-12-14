@@ -1,5 +1,8 @@
 #include<stdio.h>
-int main(){
+ int main(){
   printf("hellogit");
+  printf("new to git"); 
+   
   return 0;
   }
+
